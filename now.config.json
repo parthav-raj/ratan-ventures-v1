@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_ratan",
+    "scopeId": "72f31f423bcbcf101cd400c693e45add",
+    "name": "Ratan Ventures",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
